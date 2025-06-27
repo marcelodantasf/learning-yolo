@@ -1,4 +1,4 @@
-path: /home/marcelolia/projetos/learning-yolo/data
+path: /home/marcelinhodemel/projetos/learning-yolo/data
 train: ../train/images
 val: ../valid/images
 test: ../test/images

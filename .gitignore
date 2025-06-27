@@ -1,3 +1,5 @@
 data/
 .venv
 yolov8n.pt
+yolov11n.pt
+runs/
